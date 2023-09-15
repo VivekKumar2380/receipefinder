@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183446606973",
+    "project_id": "recipe-finder-fbe91",
+    "storage_bucket": "recipe-finder-fbe91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183446606973:android:4a7ec6a4b51f6a89360d14",
+        "android_client_info": {
+          "package_name": "com.vivekk_123.ReceipeFinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARHTXzKZ5t97Fv3EVuEGkmVR-24BPBNIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
