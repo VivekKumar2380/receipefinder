@@ -1,7 +1,12 @@
-# receipefinder# RecipeFinder App
+# RecipeFinder App
 
 Welcome to RecipeFinder, your go-to app for discovering and cooking delicious recipes!
 
+## Video Demo
+
+Check out this video to see a practical demonstration of the RecipeFinder app:
+
+[![Video Demo]](https://drive.google.com/file/d/1rDyCx4hVWRBAoinitcFfTMpJhI9f4KAO/view?usp=sharing)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -39,11 +44,14 @@ Before you begin, make sure you have the following prerequisites:
    ```bash
    git clone https://github.com/your-username/recipe-finder.git
 2. Navigate to the project directory:
+   ```bash
    cd recipe-finder
-3. Install the required dependencies:
+4. Install the required dependencies:
+   ```bash
    npm install
-4: Start the app:
-   npx expo start
+5: Start the app:
+
+  npx expo start
 
 # Usage
 Launch the RecipeFinder app on your mobile device.
